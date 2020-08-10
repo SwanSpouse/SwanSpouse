@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SwanSpouse&show_icons=true" />
