@@ -1,14 +1,10 @@
 
-<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="430" width="400" align="right"></img>
-
 
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SwanSpouse&show_icons=true" />
 </a>
 
-<a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwanSpouse&hide=html,ruby" />
-</a>
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 <!--
