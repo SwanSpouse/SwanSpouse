@@ -6,16 +6,16 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwanSpouse&hide=html,ruby" />
 </a>
 
-<!--
-**SwanSpouse/SwanSpouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <br />
 <br />
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+
 <br />
 <br />
 
+<!--
+**SwanSpouse/SwanSpouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
