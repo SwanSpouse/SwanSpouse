@@ -9,6 +9,14 @@
 <!--
 **SwanSpouse/SwanSpouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<br />
+<br />
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
