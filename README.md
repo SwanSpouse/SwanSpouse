@@ -1,6 +1,6 @@
 
 
-### Hey 👋, I'm MingJi
+### Hey 👋, I'm Li MingJi
 
 <br />
 <br />
